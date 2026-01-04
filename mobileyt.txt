@@ -1,0 +1,2 @@
+m.youtube.com##ytm-browse:has(.feed-item)
+m.youtube.com##.YtmCommentRendererIcons:nth-of-type(2)
